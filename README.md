@@ -13,6 +13,7 @@ icon: terminal
 
 \---
 
+{% hint style="info" %}
+**There are no particular prerequisites for this course. You just need a passion to learn programming. If&#x20;**_**you are a beginner, don’t worry!**_&#x20;
+{% endhint %}
 
-
-<figure><img src=".gitbook/assets/bash-bg.png" alt="" width="271"><figcaption></figcaption></figure>
