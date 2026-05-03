@@ -30,8 +30,10 @@ The tabulator loads input data for computation from punched cards. These cards l
 3. A short circuit occurs in each punched hole. Each short circuit increases the mechanical counter, which is a rotating cylinder.
 4. The tabulator displays calculation results on dials that resemble watches.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
-
+<div align="center">
+  <figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+</div
+  
 ## 2. Relay Computers
 
 Learn what the Z3 computer is, and how it differs from the computers with cylinders.
@@ -44,8 +46,10 @@ The German engineer Konrad Zuse designed one of the first **relay computers**–
 
 The increased computation speed is the first feature of Zuse’s computers. The second feature is the concept of a **computer program**, which is a sequence of instructions interpreted by a computer. This was arguably the first universal machine—a computational device that follows an algorithm chosen by the user.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
-
+<div align="center">
+  <figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+</div
+  
 > An _**algorithm**_ is a finite sequence of instructions to perform a particular calculation or task.
 
 #### Z3 inputs <a href="#z3-inputs" id="z3-inputs"></a>
@@ -75,7 +79,9 @@ Vacuum tubes considerably increased the ENIAC’s performance compared to relay-
 
 Since the ENIAC is a programmable computer, we can set its algorithm through a combination of switches and jumpers on the control panels. This task requires considerable time and the simultaneous work of several people. The figure below shows one of the panels that programs the ENIAC.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+<div align="center">
+  <figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
+</div>
 
 The ENIAC uses punched cards to read input data and to output results. This is the same approach that previous models of computers used. The new feature of ENIAC was to store intermediate results on the cards.
 
