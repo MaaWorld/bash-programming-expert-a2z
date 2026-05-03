@@ -7,6 +7,15 @@ icon: computer-mouse
 
 # Computer Devices
 
+### Main types of computers <a href="#main-types-of-computers" id="main-types-of-computers"></a>
+
+Modern OSs are able to solve a wide range of tasks. These tasks depend on the type of computer where we run the OS. Below are the main types of computers:
+
+* Personal computers (PC) and notebooks
+* Smartphones and tablets
+* Servers
+* Embedded systems
+
 ### Peripheral and internal devices <a href="#peripheral-and-internal-devices" id="peripheral-and-internal-devices"></a>
 
 What is the difference between peripheral and internal devices?
