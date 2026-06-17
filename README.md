@@ -11,11 +11,15 @@ icon: terminal
 
 <figure><img src=".gitbook/assets/k.gif" alt="" width="375"><figcaption></figcaption></figure>
 
-\---
+***
 
 {% hint style="info" %}
 **There are no particular prerequisites for this course. You just need a passion to learn programming. If&#x20;**_**you are a beginner, don’t worry!**_&#x20;
 {% endhint %}
+
+<div><figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
+
+<div><figure><img src=".gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure></div>
 
 ## Module 1: Structure
 

@@ -13,6 +13,8 @@ The system requirements tell us that the OS is a software platform, and the appl
 
 Let’s consider these questions. Modern operating systems are multipurpose, so they offer users many features. An OS provides users with the tools to interact with computer hardware. We can’t do too much or use much computational power without them. So, an OS is required for any complex computations.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Windows, Linux, and Mac operating systems</p></figcaption></figure>
+
 ## 1. Electromechanical Computer
 
 Learn what electromechanical computers are and how they work.
@@ -30,15 +32,13 @@ The tabulator loads input data for computation from punched cards. These cards l
 3. A short circuit occurs in each punched hole. Each short circuit increases the mechanical counter, which is a rotating cylinder.
 4. The tabulator displays calculation results on dials that resemble watches.
 
-<div align="center">
-  <figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
-</div
-  
-## 2. Relay Computers
+<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+
+### 2. Relay Computers
 
 Learn what the Z3 computer is, and how it differs from the computers with cylinders.
 
-### Z3 computers <a href="#z3-computers" id="z3-computers"></a>
+#### Z3 computers <a href="#z3-computers" id="z3-computers"></a>
 
 Tabulators used rotating cylinders to perform calculations. The next generation of computers replaced the cylinders with relays. A **relay** is a mechanical element that changes its state due to an electric current.
 
@@ -46,13 +46,11 @@ The German engineer Konrad Zuse designed one of the first **relay computers**–
 
 The increased computation speed is the first feature of Zuse’s computers. The second feature is the concept of a **computer program**, which is a sequence of instructions interpreted by a computer. This was arguably the first universal machine—a computational device that follows an algorithm chosen by the user.
 
-<div align="center">
-  <figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
-</div
-  
+<figure><img src="../.gitbook/assets/image (10).png" alt="" width="375"><figcaption></figcaption></figure>
+
 > An _**algorithm**_ is a finite sequence of instructions to perform a particular calculation or task.
 
-#### Z3 inputs <a href="#z3-inputs" id="z3-inputs"></a>
+**Z3 inputs**
 
 The Z3 computer uses two input devices, in parallel, to support programs.
 
@@ -63,11 +61,11 @@ Computers that can change their algorithms are known as **programmable** or **ge
 
 The invention of programmable computers was a milestone in the development of computer science. Until that moment, machines were only able to perform highly specialized tasks. The construction of these machines was too expensive and unprofitable. This was one reason why commercial investors did not support projects to design new computers. Only governments invested money in them. However, this situation changed when programmable computers came along.
 
-## 3. Electrical Computers
+### 3. Electrical Computers
 
 Learn how ENIAC works, and what transistors are.
 
-### ENIAC <a href="#eniac" id="eniac"></a>
+#### ENIAC <a href="#eniac" id="eniac"></a>
 
 The next step in computer design was the construction of the Electronic Numerical Integrator and Computer (ENIAC). It was the first electronic and general-purpose digital computer that could be programmed.
 
@@ -79,9 +77,7 @@ Vacuum tubes considerably increased the ENIAC’s performance compared to relay-
 
 Since the ENIAC is a programmable computer, we can set its algorithm through a combination of switches and jumpers on the control panels. This task requires considerable time and the simultaneous work of several people. The figure below shows one of the panels that programs the ENIAC.
 
-<div align="center">
-  <figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure>
-</div>
+<div align="center"><figure><img src="../.gitbook/assets/image (11).png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 The ENIAC uses punched cards to read input data and to output results. This is the same approach that previous models of computers used. The new feature of ENIAC was to store intermediate results on the cards.
 
@@ -94,7 +90,7 @@ Using the ENIAC gave a new experience to engineers. It showed that all mechanica
 
 Each of these operations takes a significant amount of time. Therefore, it is ineffective to solve practical tasks with the ENIAC. The computer itself had an unprecedented performance at that time. However, it was idle most of the time and waited to receive input data or be reprogrammed. These findings initiated the development of new devices for both data input and output.
 
-### Transistors <a href="#transistors" id="transistors"></a>
+#### Transistors <a href="#transistors" id="transistors"></a>
 
 The next step in computer design was to replace vacuum tubes with transistors. This again increased the computational speed by many degrees. Transistors came together with new input and output devices. It allowed us to increase the computational load of the computers and reprogram them more often.
 

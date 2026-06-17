@@ -8,6 +8,7 @@
 * [Operating Systems](m1-quick-start-with-operating-system-and-bash/operating-systems.md)
 * [Computer Devices](m1-quick-start-with-operating-system-and-bash/computer-devices.md)
 * [GUI: TTY & CLI & TUI & Xerox | OS Versions](m1-quick-start-with-operating-system-and-bash/gui-tty-and-cli-and-tui-and-xerox.md)
+* [Application](m1-quick-start-with-operating-system-and-bash/application.md)
 
 ## M2 - Basic Programming with Bash
 
